@@ -1,5 +1,5 @@
-<h2> Hi, I'm Robel won! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Robel won! <img src="https://media4.giphy.com/media/YRMb6dd7zprS00JdGZ/200.webp?cid=ecf05e477xubiv621biy7emcdre7m5v7v30ai0p51spqyxqh&ep=v1_stickers_search&rid=200.webp&ct=s" width="50"></h2>
+
 <p><em>Software Enginnering student at <a href="[http://www.unb.br](https://www.bing.com/images/search?q=aastu%20logo&FORM=IQFRBA&id=9579669B2225DA5C4FD0DD701D0C46967F5D1173)">Addis ababa Science and Technology University 
 </em></p>
 
@@ -7,23 +7,4 @@
 [![GitHub Robel Won](https://img.shields.io/github/followers/robel-w?label=follow&style=social)](https://github.com/robel-w)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
