@@ -5,6 +5,7 @@
 
 [![Linkedin: Robel Wondwosen](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robelwondwosen/)](https://www.linkedin.com/in/robelwondwosen/)
 [![GitHub Robel Won](https://img.shields.io/github/followers/robel-w?label=follow&style=social)](https://github.com/robel-w)
+[![Join me on Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/R0bstack))
 
 ---
 
