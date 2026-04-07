@@ -11,7 +11,7 @@
 
 <h2>👨🏽‍💻 About Me</h2>
 
-🌍 I’m a dedicated **Software Engineering student** enrolled in the rigorous ALX Backend Development Program.  
+🌍 I’m a dedicated **Software Engineering student**.  
 💡 My mission is to become a proficient **Backend Developer** and use technology to solve real problems — especially through **AI**   
 📚 I’m a lifelong learner, passionate about **scalable systems**, **clean APIs**, and building tools that impact lives.  
 
@@ -19,7 +19,6 @@
 
 <h2>🚀 What Drives Me</h2>
 
-🌱 Currently learning: `Django`, `Celery`, `PostgreSQL`, `JWT Auth`  
 🧠 Exploring: `AI/ML`, `Recommendation Engines`, `Natural Language Processing (NLP)`  
 💭 Dream project: An **Amharic Movie Recommendation Site** that blends NLP, collaborative filtering.
 🎯 Goal: Land a backend internship where I can scale real-world APIs and grow with high-performing teams.
