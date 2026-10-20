@@ -17,14 +17,6 @@
 
 ---
 
-<h2>🚀 What Drives Me</h2>
-
-🧠 Exploring: `AI/ML`, `Recommendation Engines`, `Natural Language Processing (NLP)`  
-💭 Dream project: An **Amharic Movie Recommendation Site** that blends NLP, collaborative filtering.
-🎯 Goal: Land a backend internship where I can scale real-world APIs and grow with high-performing teams.
-
----
-
 <h2>🧰 My Tech Stack</h2>
 
 <p>
