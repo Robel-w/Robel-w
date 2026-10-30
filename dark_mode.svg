@@ -34,7 +34,7 @@ text, tspan { white-space: pre; }
 
 <text x="410" y="52" xml:space="preserve"><tspan fill="#D97757" font-weight="bold">robel-w</tspan> <tspan fill="#6e6a66">------------------------------------------------</tspan></text>
 <text x="410" y="72" xml:space="preserve"><tspan fill="#D97757">Role:</tspan><tspan fill="#6e6a66"> ................................ </tspan><tspan fill="#ece9e4">Software Engineer</tspan></text>
-<text x="410" y="92" xml:space="preserve"><tspan fill="#D97757">Uptime:</tspan><tspan fill="#6e6a66" id="age_dots"> ................... </tspan><tspan fill="#ece9e4" id="age_data">21 years, 10 months, 12 days</tspan></text>
+<text x="410" y="92" xml:space="preserve"><tspan fill="#D97757">Uptime:</tspan><tspan fill="#6e6a66" id="age_dots"> ................... </tspan><tspan fill="#ece9e4" id="age_data">21 years, 10 months, 13 days</tspan></text>
 <text x="410" y="112" xml:space="preserve"><tspan fill="#D97757">Location:</tspan><tspan fill="#6e6a66"> ........................ </tspan><tspan fill="#ece9e4">Addis Ababa, Ethiopia</tspan></text>
 <text x="410" y="132" xml:space="preserve"><tspan fill="#D97757">Education:</tspan><tspan fill="#6e6a66"> .................... </tspan><tspan fill="#ece9e4">BSc Software Eng., AASTU</tspan></text>
 <text x="410" y="152" xml:space="preserve"><tspan fill="#D97757">- Tech </tspan><tspan fill="#6e6a66">-------------------------------------------------</tspan></text>
